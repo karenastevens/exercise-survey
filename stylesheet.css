@@ -1,0 +1,23 @@
+body {
+	background-image: url(https://i.imgur.com/sIoH5wE.png);
+	background color: #f1f0f2;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#survey-form {
+	align-self: center;
+}
+
+#survey-container {
+	padding: 20px 20px 20px 20px;
+	background-color: #c8b1c9;
+	width:  450px;
+	margin: 0 auto;
+}
